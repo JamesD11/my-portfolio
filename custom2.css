@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+}
+h1,h2{
+	color:#4aaaa5 ;
+}
+
+#photo{
+	float: left;
+	padding:5px;
+}
+
+.panel-body{
+	float: right;
+}
+.panel-footer{
+	text-align: center;
+	background:#666 ;
+	color: #fff;
+	border-top: 8px solid #4aaaa5;
+}
+input{
+	background-color:#4aaaa5 ;
+}
